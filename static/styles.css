@@ -1,0 +1,21 @@
+#pivot-table {
+    display: flex;
+    flex-direction: column;
+    border: 2px solid rebeccapurple;
+    padding: 12px;
+    min-height: 100px;
+}
+
+.pivot-table-item {
+    margin-bottom: 12px;
+    padding: 10px;
+    background-color:royalblue;
+    cursor: pointer;
+}
+#add-item{
+    background-color:darkred;
+    margin: 20px;
+    color: aliceblue;
+    font-size: 20px;
+
+}
